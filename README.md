@@ -53,13 +53,12 @@ Este proyecto hace uso de las siguientes tecnologías:
 
 - **HTML5**: Para estructurar el contenido de la página web y formularios.
 - **CSS3**: Para estilizar y mejorar la apariencia visual del cuestionario.
-- **JavaScript** (opcional): Si deseas agregar funcionalidad adicional como validación de respuestas o interactividad.
 - **Formularios HTML**: Para recopilar respuestas y datos de los usuarios.
 
 ## 📂 **Estructura del Proyecto**
 
 ```plaintext
 📁 Cuestionario
-├── index.html        # Archivo principal de la página web.
-├── style.css         # Estilos para el diseño del cuestionario.
-└── README.md         # Documentación del proyecto.
+├── index.html        # Archivo principal de la página web
+├── style.css         # Estilos para el diseño del cuestionario
+└── README.md         # Documentación del proyecto
